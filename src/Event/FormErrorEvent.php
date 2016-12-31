@@ -33,6 +33,7 @@ class FormErrorEvent extends Event
     /**
      * @param bool $deep
      * @param bool $flatten
+     *
      * @return array
      */
     public function getErrors($deep = false, $flatten = true)

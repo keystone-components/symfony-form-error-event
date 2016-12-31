@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 namespace Keystone\Symfony\FormErrorEvent\Type;
 
@@ -11,7 +11,6 @@ use Symfony\Component\Form\FormError;
 use Symfony\Component\Form\FormEvent;
 use Symfony\Component\Form\FormEvents;
 use Symfony\Component\Form\Forms;
-use Symfony\Component\Form\Test\FormIntegrationTestCase;
 
 class ErrorEventTypeExtensionTest extends \PHPUnit_Framework_TestCase
 {
