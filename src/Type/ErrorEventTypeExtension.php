@@ -1,8 +1,8 @@
 <?php
 
-namespace Keystone\Symfony\FormErrorEvent\Type;
+namespace Keystone\SymfonyFormErrorEvent\Type;
 
-use Keystone\Symfony\FormErrorEvent\Event\FormErrorEvent;
+use Keystone\SymfonyFormErrorEvent\Event\FormErrorEvent;
 use Symfony\Component\EventDispatcher\EventDispatcherInterface;
 use Symfony\Component\Form\AbstractTypeExtension;
 use Symfony\Component\Form\Extension\Core\Type\FormType;

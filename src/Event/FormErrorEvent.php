@@ -1,6 +1,6 @@
 <?php
 
-namespace Keystone\Symfony\FormErrorEvent\Event;
+namespace Keystone\SymfonyFormErrorEvent\Event;
 
 use Symfony\Component\EventDispatcher\Event;
 use Symfony\Component\Form\FormInterface;
